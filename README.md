@@ -1,129 +1,113 @@
-<div align="center">
-  
-# 👋 Hi, I'm Ankit Dehariya
+<h1 align="center">Hi, I'm Ankit Dehariya 👋</h1>
+<h3 align="center">Crafting blazing-fast, AI-powered web experiences with pixel-perfect UI and scalable architecture.</h3>
 
-### Full-Stack Developer | Senior Frontend Engineer
-*Crafting blazing-fast, AI-powered web experiences with pixel-perfect UI and scalable architecture*
+<p align="center">
+📍 Open to **Bangalore • Hyderabad • Remote** &nbsp;•&nbsp; Full-Stack Developer | Senior Frontend Engineer  
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitdehariya19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.ankitdehariya000@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ankitdehariya19&style=for-the-badge&color=blueviolet)](https://github.com/ankitdehariya19)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Senior Frontend Engineer** with **3+ years** of experience building scalable, performance-optimized web applications. I specialize in **React.js**, **Next.js**, and **TypeScript**, with a strong focus on frontend architecture, **Core Web Vitals optimization**, and production-grade **AI-integrated platforms**.
-
-- 🔥 Built AI-powered LinkedIn content tools achieving **60% faster creation** and **35% higher engagement**
-- ⚡ Delivered marketing sites with **90+ PageSpeed scores** using modern SSG/SSR techniques
-- 🎯 Expert in **Core Web Vitals** (LCP, INP, FCP, TTFB) and technical SEO
-- 🤖 Experienced in integrating **LLMs** and AI APIs into production web applications
-- 💼 Shipped payment-integrated apps with **Stripe** and **Razorpay**
-- 📍 Based in **Hyderabad, India** | Open to remote opportunities
+<p align="center">
+<a href="https://linkedin.com/in/ankitdehariya19">
+  <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Dehariya-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:mr.ankitdehariya000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ankitdehariya&style=for-the-badge&color=0e75b6" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+Senior frontend-focused **Full-Stack Developer** with **3+ years** of experience building scalable, performance-optimized web applications.  
+Specialized in **React.js, Next.js, and TypeScript**, with a strong focus on **Core Web Vitals, SEO, clean architecture**, and **AI-powered platforms**.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### State & Styling
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+I’m passionate about building products that are **fast, maintainable, SEO-friendly**, and ready for real-world scale.
 
 ---
 
-## 💡 Featured Projects & Impact
+### 🛠 Tech Stack & Expertise
 
-### 🤖 AI-Powered LinkedIn Content Creator
-Built an AI-driven platform for automated LinkedIn post generation with intelligent video search workflow
-- **Tech**: Next.js, TypeScript, Astro, Redux Toolkit, Tailwind CSS, Stripe
-- **Impact**: 60% faster content creation, 35% higher user engagement
-- **Features**: LLM integration, payment processing, real-time analytics
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Astro](https://img.shields.io/badge/Astro.js-0C1222?style=for-the-badge&logo=astro)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### ⚡ High-Performance Marketing Platform
-Developed marketing website using Astro with aggressive performance optimization
-- **Tech**: Astro, TypeScript, Tailwind CSS
-- **Performance**: 90+ PageSpeed score, optimized Core Web Vitals
-- **SEO**: Technical SEO implementation, schema markup, sitemap automation
+**State • UI • Styling**
+<br/>
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
+![Context](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Flowbite](https://img.shields.io/badge/Flowbite-0E7490?style=for-the-badge)
 
-### 🎓 Scalable Student Learning Platform
-Full-stack educational platform with student portal and teacher admin panel
-- **Tech**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-- **Scale**: Handles 1000+ concurrent users, role-based access control
-- **Features**: Real-time progress tracking, content management, analytics dashboard
+**Animations & UX**
+<br/>
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge)
+![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge)
 
-### 🔧 AI Content Generation Engine
-Production-ready content generation platform powered by LLMs
-- **Tech**: FastAPI, React.js, Node.js, MongoDB, LangChain
-- **AI**: Custom prompt engineering, streaming responses, cost optimization
-- **Architecture**: Microservices, API gateway, caching layer
+**Backend & APIs**
+<br/>
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
----
+**Infra • Payments • Security**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3EAAAF?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitdehariya19&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdehariya19&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitdehariya19&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Key Achievements
-
-- ✅ Optimized Core Web Vitals across multiple production apps (90+ Lighthouse scores)
-- ✅ Built and deployed 10+ full-stack applications with payment integrations
-- ✅ Architected modular, scalable Next.js apps with Husky, Prettier, and ESLint
-- ✅ Certified in JavaScript Algorithms & Data Structures (FreeCodeCamp)
-- ✅ Proven track record in AI/LLM integration into production web apps
+**Performance • SEO • Quality**
+<br/>
+![SEO](https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge)
+![WebVitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=for-the-badge)
+![API](https://img.shields.io/badge/API_Testing-FF6F00?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive_Design-1F2937?style=for-the-badge)
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always interested in discussing **performance optimization**, **AI integration**, **scalable frontend architecture**, and exciting new projects!
-
-- 📧 Email: [mr.ankitdehariya000@gmail.com](mailto:mr.ankitdehariya000@gmail.com)
-- 📱 Phone: +91 9039605309 | +91 8319277619
-- 💼 LinkedIn: [linkedin.com/in/ankitdehariya19](https://linkedin.com/in/ankitdehariya19)
-- 📍 Location: Hyderabad, Telangana, India
+### 🚀 Featured Projects
+- **AI-powered LinkedIn Content Creator** → 60% faster content creation, 35% higher engagement  
+- **High-traffic Marketing Website (Astro.js)** → 90+ PageSpeed, SEO-first build  
+- **AI-driven Content Platform** → FastAPI + LLMs + Next.js  
+- **Student Learning Platform** → Scalable admin & role-based access  
+- **Payment-integrated Applications** → Stripe & Razorpay  
+- **Clean Next.js Architectures** → Husky, Prettier, scalable patterns  
 
 ---
 
-<div align="center">
+### 📈 Impact & Strengths
+- Core Web Vitals **(LCP, INP, FCP, TTFB)** consistently 90+  
+- Performance optimization & build tooling expert  
+- Strong frontend architecture & modular design mindset  
+- AI integrations shipped to real users  
 
-### ✨ Let's build something amazing together! ✨
+---
 
-*"Clean code, fast performance, and delightful user experiences—that's my commitment."*
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankitdehariya&show_icons=true&theme=dark&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdehariya&layout=compact&theme=dark&hide_border=true" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=ankitdehariya&theme=dark&hide_border=true" />
+</p>
 
-</div>
+---
+
+### 📬 Let’s Connect
+📞 +91 9039605309 | +91 8319277619  
+📧 **mr.ankitdehariya000@gmail.com**  
+🔗 **linkedin.com/in/ankitdehariya19**
+
+---
+
+⭐ *Let’s build something amazing together.*
